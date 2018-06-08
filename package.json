@@ -1,0 +1,15 @@
+{
+  "name": "jokegenerator",
+  "version": "1.0.0",
+  "description": "Slackbot that tells Chuck Norris and Yo Mama Jokes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sounak Bhattacharya",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
